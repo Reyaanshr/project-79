@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+button{
+    font-style: italic;
+    font-weight: bold;
+    font-size: large;
+}
+#PizzasForDinner{
+    margin-bottom: 100px;
+}
+#Pizzas{
+    font-size: large;
+    margin-top: 20px;
+}
+h1{
+    margin-bottom: 20px;
+}
